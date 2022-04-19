@@ -5,3 +5,5 @@ ls - list folder contents
 cd - change working directory
 git command
 touch - used to crerate a file
+ls -l - user disgnation
+
